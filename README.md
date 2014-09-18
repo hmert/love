@@ -19,7 +19,7 @@ var love = require('love');
 <script type="text/javascript" src="./love"></script>
 ```
 
-##### Basic 5
+##### Basic love
 ```javascript
 love();
 ```
