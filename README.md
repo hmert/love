@@ -6,7 +6,7 @@ A library to **overcomplicate** `love`.
 [![Code Climate](https://codeclimate.com/github/hmert/love.png)](https://codeclimate.com/github/hmert/love)
 [![Test Coverage](https://codeclimate.com/github/hmert/love/coverage.png)](https://codeclimate.com/github/hmert/love)
 
-[![NPM](https://nodei.co/npm/love?downloads=true)](https://nodei.co/npm/love)
+[![NPM](https://nodei.co/npm/love.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/love/)
 
 ### Usage
 ##### Require the module
