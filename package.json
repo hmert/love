@@ -1,6 +1,6 @@
 {
     "name": "love",
-    "version": "1.4.3",
+    "version": "3.4.1",
     "description": "love",
     "main": "love.js",
     "scripts": {
