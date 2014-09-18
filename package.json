@@ -1,0 +1,21 @@
+{
+    "name": "love",
+    "version": "1.4.4",
+    "description": "love",
+    "main": "love.js",
+    "scripts": {
+        "test": "node test && echo ♥"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hmert/love.git"
+    },
+    "keywords": [
+        "love"
+    ],
+    "author": "Hüseyin Mert <huseyinin@gmail.com>",
+    "license": "LOVE",
+    "bugs": {
+        "url": "https://github.com/hmert/love/issues"
+    }
+}

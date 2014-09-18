@@ -1,0 +1,17 @@
+{
+    "name": "love",
+    "version": "1.4.3",
+    "authors": [
+        "Hüseyin Mert <huseyinin@gmail.com>"
+    ],
+    "description": "i love you",
+    "main": "love.js",
+    "keywords": [
+        "love"
+    ],
+    "license": "LOVE",
+    "homepage": "https://github.com/hmert/love",
+    "ignore": [
+        "node_modules"
+    ]
+}
