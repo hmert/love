@@ -36,4 +36,4 @@ love();
 npm test
 ```
 ### License
-MIT
+LOVE
