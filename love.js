@@ -40,7 +40,7 @@
   love.turkish = function() { return 'aşk'; };
   love.ukrainian = function() { return 'люблю'; };
   love.urdu = function() { return 'محبت'; };
-  love.vietnamise = function() { return 'yêu'; };
+  love.vietnamese = function() { return 'yêu'; };
 
   love.morseCode = function() { return '.-.. --- ...- .'; };
 
