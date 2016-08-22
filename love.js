@@ -19,6 +19,7 @@
   love.french = function() { return 'amour'; };
   love.german = function() { return 'liebe'; };
   love.greek = function() { return 'αγάπη'; };
+  love.gujarati = function() { return 'પ્રેમ'; };
   love.hindi = function() { return 'प्यार'; };
   love.indonesian = function() { return 'cinta'; };
   love.irish = function() { return 'grá'; };
