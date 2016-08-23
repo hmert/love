@@ -39,7 +39,7 @@
   love.tamil = function() { return 'காதல்'; };
   love.thai = function() { return 'รัก'; };
   love.turkish = function() { return 'aşk'; };
-  love.ukrainian = function() { return 'люблю'; };
+  love.ukrainian = function() { return 'кохаю'; };
   love.urdu = function() { return 'محبت'; };
   love.vietnamese = function() { return 'yêu'; };
   love.emoji = function() { return '❤️'; };
