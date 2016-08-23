@@ -30,7 +30,7 @@
   love.macedonian = function() { return 'сакам'; };
   love.mongolian = function() { return 'хайртай'; };
   love.polish = function() { return 'miłość'; };
-  love.portuguese = function () { return 'amo'; };
+  love.portuguese = function () { return 'amor'; };
   love.romanian = function() { return 'dragoste'; };
   love.russian = function() { return 'люблю'; };
   love.slovenian = function() { return 'ljubezen'; };
