@@ -17,7 +17,7 @@
   love.estonian = function() { return 'armastus'; };
   love.finnish = function() { return 'rakkaus'; };
   love.french = function() { return 'amour'; };
-  love.german = function() { return 'liebe'; };
+  love.german = function() { return 'Liebe'; };
   love.greek = function() { return 'αγάπη'; };
   love.hindi = function() { return 'प्यार'; };
   love.indonesian = function() { return 'cinta'; };
