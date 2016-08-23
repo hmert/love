@@ -33,7 +33,7 @@
   love.romanian = function() { return 'dragoste'; };
   love.russian = function() { return 'люблю'; };
   love.slovenian = function() { return 'ljubezen'; };
-  love.spanish = function() { return 'amar'; };
+  love.spanish = function() { return 'amor'; };
   love.swedish = function() { return 'älskar'; };
   love.tamil = function() { return 'காதல்'; };
   love.thai = function() { return 'รัก'; };
