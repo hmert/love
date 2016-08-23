@@ -41,6 +41,7 @@
   love.ukrainian = function() { return 'люблю'; };
   love.urdu = function() { return 'محبت'; };
   love.vietnamese = function() { return 'yêu'; };
+  love.emoji = function() { return '❤️'; };
 
   love.morseCode = function() { return '.-.. --- ...- .'; };
 
