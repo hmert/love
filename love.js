@@ -42,10 +42,10 @@
   love.ukrainian = function() { return 'кохаю'; };
   love.urdu = function() { return 'محبت'; };
   love.vietnamese = function() { return 'yêu'; };
+  love.persian = function() { return 'عشق'; };
   love.emoji = function() { return '❤️'; };
 
   love.morseCode = function() { return '.-.. --- ...- .'; };
-
 
   love.map = function(array) { return array.map(love); };
   love.reduce = function(array) { return array.reduce(love); };
