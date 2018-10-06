@@ -6,7 +6,7 @@
   love.arabic = function() { return 'الحب'; };
   love.azerbaijani = function() { return 'sevgi'; };
   love.basque = function() { return 'maite'; };
-  love.bosnian = function() { return 'love'; };
+  love.bosnian = function () { return 'ljubav'; };
   love.bulgarian = function() { return 'обичам'; };
   love.catalan = function() { return 'estimar'; };
   love.chinese = function() { return '爱'; };
