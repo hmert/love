@@ -3,13 +3,16 @@
   var love = function() { return 'love'; };
 
 
+  love.albanian = function () { return 'dashuri'; };
   love.arabic = function() { return 'الحب'; };
+  love.armenian = function () { return 'Սեր'; };
   love.azerbaijani = function() { return 'sevgi'; };
   love.basque = function() { return 'maite'; };
   love.bosnian = function () { return 'ljubav'; };
   love.bulgarian = function() { return 'обичам'; };
   love.catalan = function() { return 'estimar'; };
   love.chinese = function() { return '爱'; };
+  love.crotian = function () { return 'ljubav'; };
   love.czech = function() { return 'láska'; };
   love.danish = function() { return 'elsker'; };
   love.dutch = function() { return 'liefde'; };
@@ -33,6 +36,7 @@
   love.portuguese = function () { return 'amor'; };
   love.romanian = function() { return 'dragoste'; };
   love.russian = function() { return 'люблю'; };
+  love.serbian = function () { return 'љубав'; };
   love.slovenian = function() { return 'ljubezen'; };
   love.spanish = function() { return 'amor'; };
   love.swedish = function() { return 'älskar'; };
