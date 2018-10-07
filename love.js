@@ -8,6 +8,7 @@
   love.armenian = function () { return 'Սեր'; };
   love.azerbaijani = function() { return 'sevgi'; };
   love.basque = function() { return 'maite'; };
+  love.binary = function() { return '01101100 01101111 01110110 01100101'; };
   love.bosnian = function () { return 'ljubav'; };
   love.bulgarian = function() { return 'обичам'; };
   love.catalan = function() { return 'estimar'; };
