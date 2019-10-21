@@ -31,6 +31,7 @@
   love.japanese = function() { return '愛'; };
   love.korean = function() { return '사랑'; };
   love.latin = function() { return 'amant'; };
+  love.lazuri = function() { return 'oropa'; };
   love.macedonian = function() { return 'сакам'; };
   love.mongolian = function() { return 'хайртай'; };
   love.polish = function() { return 'miłość'; };
