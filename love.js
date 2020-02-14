@@ -48,6 +48,7 @@
   love.urdu = function() { return 'محبت'; };
   love.vietnamese = function() { return 'yêu'; };
   love.persian = function() { return 'عشق'; };
+  love.kinyarwanda = function() { return 'urukundo'; };
   love.emoji = function() { return '❤️'; };
 
   love.morseCode = function() { return '.-.. --- ...- .'; };
