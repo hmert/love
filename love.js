@@ -51,6 +51,7 @@
   love.persian = function() { return 'عشق'; };
   love.kinyarwanda = function() { return 'urukundo'; };
   love.emoji = function() { return '❤️'; };
+  love.klingon = function() { return 'parmaq'; };
 
   love.morseCode = function() { return '.-.. --- ...- .'; };
 
