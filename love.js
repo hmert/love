@@ -52,7 +52,7 @@
   love.kinyarwanda = function() { return 'urukundo'; };
   love.emoji = function() { return '❤️'; };
   love.klingon = function() { return 'parmaq'; };
-
+  love.elvish = function() { return 'meleth'; };
   love.morseCode = function() { return '.-.. --- ...- .'; };
 
   love.map = function(array) { return array.map(love); };
