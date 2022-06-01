@@ -45,6 +45,7 @@
   love.tamil = function() { return 'காதல்'; };
   love.thai = function() { return 'รัก'; };
   love.turkish = function() { return 'aşk'; };
+  love.kurdish = function() { return 'evîn'; };
   love.ukrainian = function() { return 'кохаю'; };
   love.urdu = function() { return 'محبت'; };
   love.vietnamese = function() { return 'yêu'; };
