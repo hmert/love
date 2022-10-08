@@ -39,6 +39,7 @@
   love.romanian = function() { return 'dragoste'; };
   love.russian = function() { return 'люблю'; };
   love.serbian = function () { return 'љубав'; };
+  love.sinhalese = function() { return 'ආදරය'; };
   love.slovenian = function() { return 'ljubezen'; };
   love.spanish = function() { return 'amor'; };
   love.swedish = function() { return 'älskar'; };
