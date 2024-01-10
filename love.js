@@ -56,6 +56,8 @@
   love.klingon = function() { return 'parmaq'; };
   love.elvish = function() { return 'meleth'; };
   love.morseCode = function() { return '.-.. --- ...- .'; };
+  love.karakalpakish = function() { return 'jaqsı kóremen'; };
+  love.catsLang = function() { return 'purr'; };
 
   love.map = function(array) { return array.map(love); };
   love.reduce = function(array) { return array.reduce(love); };
