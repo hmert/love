@@ -3,7 +3,7 @@ name: CI
 on:
   push:
     branches:
-      - master
+      - love
     tags:
       - 'v*'
   pull_request:
